@@ -1,7 +1,7 @@
 Hello, I'm Smit BHikadiya! 👋
 
 - 🔭 I’m currently working on Android Projects
-- 🌱 I’m currently learning Data Analytics Tools,libs using python and Android Development Stuff
+- 🌱 I’m currently learning Data Analytics Tools,libs using python and Android Application Development
 - 👯 I’m looking to collaborate on Android projects or flask application on the github
 - 💬 Ask me about Java, Python and Android
 - 📫 http://www.18soece11005.dx.am/
