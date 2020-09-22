@@ -16,8 +16,6 @@ Hello, I'm Smit BHikadiya! 👋
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
-<br />
-<br />
 
 ---
 
@@ -31,6 +29,9 @@ Hello, I'm Smit BHikadiya! 👋
 [website]: http://18soece11005.dx.am/
 [instagram]: https://www.instagram.com/
 [linkedin]: https://www.linkedin.com/in/
+
+<br/>
+<br/>
 
 ### Languages and Tools Known:
 
