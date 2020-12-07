@@ -22,7 +22,7 @@ Hello, I'm Smit BHikadiya! 👋
 <details>
   <summary>:zap: Github Status</summary>
 
-  <img align="left" alt="My Github Status" src="https://github-readme-stats.codestackr.vercel.app/api?username=SmitBHikadiya&show_icons=true&hide_border=true" />
+  <img align="left" alt="My Github Status" src="https://github-readme-stats.codestackr.vercel.app/api?username=SmitBhikadiya&show_icons=true&hide_border=true" />
 
 </details>
 
