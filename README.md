@@ -4,7 +4,7 @@ Hello, I'm Smit BHikadiya! 👋
 - 🌱 I’m currently learning Data Analytics Tools,libs using python and Android Application Development
 - 👯 I’m looking to collaborate on Android projects or flask application on the github
 - 💬 Ask me about Java, Python and Android
-- 📫 http://www.18soece11005.dx.am/
+- 📫 http://www.smitbhikadiya.epizy.com/
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I spend my most of the time to watch a news channel
 - """Every Problem has a solution"""
@@ -26,7 +26,7 @@ Hello, I'm Smit BHikadiya! 👋
 
 </details>
 
-[website]: http://18soece11005.dx.am/
+[website]: http://smitbhikadiya.epizy.com/
 [instagram]: https://www.instagram.com/
 [linkedin]: https://www.linkedin.com/in/
 [twitter]: https://twitter.com/smitpat69054847/
