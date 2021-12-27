@@ -1,51 +1,53 @@
-Hello, I'm Smit BHikadiya! 👋
+### <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Smit Bhikadiya</h1>
 
-- 🔭 I’m currently working on Python GUI application
-- 🌱 I’m currently learning Data Analytics Tools,libs using python and Android Application Development
-- 👯 I’m looking to collaborate on Android projects or flask application on the github
-- 💬 Ask me about Java, Python and Android
-- 📫 http://www.smitbhikadiya.epizy.com/
-- 😄 Pronouns: He/His
-- ⚡ Fun fact: I spend my most of the time to watch a news channel
-- """Every Problem has a solution"""
+<h1 align="center"><a href="#"><img width="200" height="200" src="https://i.imgur.com/799y5A3.png"/></a></h1>
 
-### Connect with me:
+## 🙋‍♂️ About Me
 
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-<br />
+I'm a passionate Full Stack Web Developer and I am interested in developing new things which excite me a lot. I love exploring new technologies and being a practitioner, I like to stay on top of latest trends :)
 
----
+- 📫 How to reach me **sbhikadiya892@rku.ac.in**
 
-<details>
-  <summary>:zap: Github Status</summary>
+- ⚡ Fun fact **I play games and go to the GYM very often.**
 
-  <img align="left" alt="My Github Status" src="https://github-readme-stats.codestackr.vercel.app/api?username=SmitBhikadiya&show_icons=true&hide_border=true" />
+## 🚀 Languages and Tools:
 
-</details>
+<p align="left"> 
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
+    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
+    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
+    <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a> 
+    <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
+   
+</p>
 
-[website]: http://smitbhikadiya.epizy.com/
-[instagram]: https://www.instagram.com/
-[linkedin]: https://www.linkedin.com/in/
-[twitter]: https://twitter.com/smitpat69054847/
+
+<br/>
+
+
+## 📊 My Github Stats
+
+  [![SmitBhikadiya's GitHub stats](https://github-readme-stats.vercel.app/api?username=SmitBhikadiya&hide=prs&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+## ✨ Top Languages Card
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SmitBhikadiya&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <br/>
 <br/>
 
-### Languages and Tools Known:
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-
- 
+[![SmitBhikadiya's github activity graph](https://activity-graph.herokuapp.com/graph?username=SmitBhikadiya&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
+<br/>
+<br/>
+
+## Connect with me:
+
+## ❤ Views and Followers
+<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=SmitBhikadiya">
+</a>
+<a href="https://github.com/SmitBhikadiya?tab=followers"><img src="https://img.shields.io/github/followers/SubhamRaoniar28?label=Followers&style=social" alt="GitHub Badge"></a>
