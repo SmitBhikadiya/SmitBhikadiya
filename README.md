@@ -50,4 +50,4 @@ I'm a passionate Full Stack Web Developer and I am interested in developing new 
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=SmitBhikadiya">
 </a>
-<a href="https://github.com/SmitBhikadiya?tab=followers"><img src="https://img.shields.io/github/followers/SubhamRaoniar28?label=Followers&style=social" alt="GitHub Badge"></a>
+<a href="https://github.com/SmitBhikadiya?tab=followers"><img src="https://img.shields.io/github/followers/SmitBhikadiya?label=Followers&style=social" alt="GitHub Badge"></a>
