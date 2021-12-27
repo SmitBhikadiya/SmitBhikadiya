@@ -27,18 +27,18 @@ I'm a passionate Full Stack Web Developer and I am interested in developing new 
 
 ## 📊 My Github Stats
 
-  [![SmitBhikadiya's GitHub stats](https://github-readme-stats.vercel.app/api?username=SmitBhikadiya&hide=prs&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+  ![SmitBhikadiya's GitHub stats](https://github-readme-stats.vercel.app/api?username=SmitBhikadiya&hide=prs&count_private=true&show_icons=true&theme=radical)
 
 ## ✨ Top Languages Card
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SmitBhikadiya&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SmitBhikadiya&layout=compact)
 
 
 <br/>
 <br/>
 
 
-[![SmitBhikadiya's github activity graph](https://activity-graph.herokuapp.com/graph?username=SmitBhikadiya&theme=react-dark)]
+![SmitBhikadiya's github activity graph](https://activity-graph.herokuapp.com/graph?username=SmitBhikadiya&theme=react-dark)
 
 
 <br/>
