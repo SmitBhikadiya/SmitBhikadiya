@@ -41,12 +41,6 @@ I'm a passionate Full Stack Web Developer and I am interested in developing new 
 <br/>
 
 
-
-<br/>
-<br/>
-
-## Connect with me:
-
 ## ❤ Views and Followers
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=SmitBhikadiya">
