@@ -41,8 +41,6 @@ I'm a passionate Full Stack Web Developer and I am interested in developing new 
 <br/>
 
 
-![SmitBhikadiya's github activity graph](https://activity-graph.herokuapp.com/graph?username=SmitBhikadiya&theme=react-dark)
-
 
 <br/>
 <br/>
