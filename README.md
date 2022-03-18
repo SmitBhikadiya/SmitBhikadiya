@@ -27,7 +27,7 @@ I'm a passionate Full Stack Web Developer and I am interested in developing new 
 
 ## 📊 My Github Stats
 
-  ![SmitBhikadiya's GitHub stats](https://github-readme-stats.vercel.app/api?username=SmitBhikadiya&hide=prs&count_private=true&show_icons=true&theme=radical)
+  ![SmitBhikadiya's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=SmitBhikadiya&theme=dark&background=000000)
 
 ## ✨ Top Languages Card
 
