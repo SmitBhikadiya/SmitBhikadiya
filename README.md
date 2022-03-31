@@ -21,7 +21,6 @@ I'm a passionate Full Stack Web Developer and I am interested in developing new 
     <a href="#" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a> 
     <a href="#" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
     <a href="#" target="_blank"> <img src="https://img.icons8.com/color/48/000000/php.png"/> </a> 
-    <a href="#" target="_blank"> <img src="https://img.icons8.com/color/48/000000/angular.png"/> </a> 
    
 </p>
 
