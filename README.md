@@ -6,7 +6,7 @@
 
 I'm a passionate Full Stack Web Developer and I am interested in developing new things which excite me a lot. I love exploring new technologies and being a practitioner, I like to stay on top of latest trends :)
 
-- 📫 How to reach me **sbhikadiya892@rku.ac.in**
+- 📫 How to reach me **sdbhikadiya7648@gmail.com**
 
 - ⚡ Fun fact **I play games and go to the GYM very often.**
 
